@@ -10,7 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <<<<<<< HEAD
 =======
-## [1.1.0] - 2021-10-08
+
+## [1.1.0] - 2021-10-08  
 ### Added
 - Feature src/components/MyComponent/index.jsx added
 
@@ -29,7 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.0] - 2021-10-08
 ### Added
-- Feature src/components/Error/index.jsx added
+- Feature src/components/Error/index.jsx added 
 
 ## [0.2.0] - 2021-10-08
 ### Added
