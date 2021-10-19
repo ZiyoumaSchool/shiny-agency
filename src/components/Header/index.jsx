@@ -34,6 +34,9 @@ function Header() {
         <StyledLink to="/survey/1" $isFullLink>
           Passer le test
         </StyledLink>
+        <StyledLink $theme ={theme} to="#">
+          Voir les specialités
+        </StyledLink>
       </div>
     </NavContainer>
   )
