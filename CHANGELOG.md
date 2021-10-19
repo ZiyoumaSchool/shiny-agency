@@ -9,19 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [Unreleased]: https://github.com/tognia/shiny-agency/tree/master
 
 <<<<<<< HEAD
-## [1.1.0] - 2021-10-08
+=======
+
+## [1.1.0] - 2021-10-08  
 ### Added
 - Feature src/components/MyComponent/index.jsx added
 
-## [1.0.0] - 2021-10-08
-### Added
-- API added ./API for retrieving data neeeded in the project ./API
-
-## [0.5.0] - 2021-10-08
-### Added
-- Feature src/components/EmailInput/index.jsx and src/components/EmptyList/index.jsx  added
-
-=======
 ## [1.0.0] - 2021-10-08
 ### Added
 - API added ./API for retrieving data neeeded in the project
@@ -37,7 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.3.0] - 2021-10-08
 ### Added
-- Feature src/components/Error/index.jsx added
+- Feature src/components/Error/index.jsx added 
 
 ## [0.2.0] - 2021-10-08
 ### Added
